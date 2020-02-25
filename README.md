@@ -1,6 +1,6 @@
 # ECE183DA-Problem-Set-1
 
-Problem Set 1 Readme 
+Problem Set 1 Readme: The code is in MDPsolver.py
 
 0a) Team Hermes: Bill, Aarranon, Harish
 
